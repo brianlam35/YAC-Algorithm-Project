@@ -72,3 +72,6 @@ Each simulation frame:
 	•	Time to reach end zone / defender contact
 	•	Route smoothness and angle changes
 	•	Lane-selection patterns
+
+<img width="702" height="839" alt="Screenshot 2025-11-25 at 6 31 27 AM" src="https://github.com/user-attachments/assets/09cb563a-fbae-495a-84c8-5a3d8c79ef25" />
+
